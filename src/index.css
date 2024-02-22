@@ -1,0 +1,37 @@
+.dev-icons {
+    padding-left: 0;
+    list-style: none;
+    font-size: 6rem;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: center;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+.software-skill-inline {
+    display: inline-block;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    font-family: Google Sans Regular;
+}
+
+
+.icons-row {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+svg:hover {
+    fill: #f7df1e;
+    transition: fill 0.3s ease;
+}
