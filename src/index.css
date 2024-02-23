@@ -33,5 +33,6 @@ ul {
 
 svg:hover {
     fill: #f7df1e;
+    transform: translate(0, -5px);
     transition: fill 0.3s ease;
 }
